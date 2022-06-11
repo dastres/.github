@@ -1,2 +1,2 @@
-# .github
-Dastres Repository
+# Dastres
+Dastres Team
